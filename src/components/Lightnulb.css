@@ -1,0 +1,23 @@
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: space-between;
+    margin: 30px
+  }
+  
+button:hover {
+    background-color: #0056b3;
+  }
+
+img{
+   padding-left:100px;
+}
+h1{
+    font-size: 30px;
+    padding-left: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
